@@ -1,0 +1,15 @@
+/Users/Sergey/Documents/Учеба С#/Ruineed/Ruineed1/bin/Debug/net6.0/Ruineed1
+/Users/Sergey/Documents/Учеба С#/Ruineed/Ruineed1/bin/Debug/net6.0/Ruineed1.deps.json
+/Users/Sergey/Documents/Учеба С#/Ruineed/Ruineed1/bin/Debug/net6.0/Ruineed1.runtimeconfig.json
+/Users/Sergey/Documents/Учеба С#/Ruineed/Ruineed1/bin/Debug/net6.0/Ruineed1.dll
+/Users/Sergey/Documents/Учеба С#/Ruineed/Ruineed1/bin/Debug/net6.0/Ruineed1.pdb
+/Users/Sergey/Documents/Учеба С#/Ruineed/Ruineed1/obj/Debug/net6.0/Ruineed1.csproj.AssemblyReference.cache
+/Users/Sergey/Documents/Учеба С#/Ruineed/Ruineed1/obj/Debug/net6.0/Ruineed1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Sergey/Documents/Учеба С#/Ruineed/Ruineed1/obj/Debug/net6.0/Ruineed1.AssemblyInfoInputs.cache
+/Users/Sergey/Documents/Учеба С#/Ruineed/Ruineed1/obj/Debug/net6.0/Ruineed1.AssemblyInfo.cs
+/Users/Sergey/Documents/Учеба С#/Ruineed/Ruineed1/obj/Debug/net6.0/Ruineed1.csproj.CoreCompileInputs.cache
+/Users/Sergey/Documents/Учеба С#/Ruineed/Ruineed1/obj/Debug/net6.0/Ruineed1.dll
+/Users/Sergey/Documents/Учеба С#/Ruineed/Ruineed1/obj/Debug/net6.0/refint/Ruineed1.dll
+/Users/Sergey/Documents/Учеба С#/Ruineed/Ruineed1/obj/Debug/net6.0/Ruineed1.pdb
+/Users/Sergey/Documents/Учеба С#/Ruineed/Ruineed1/obj/Debug/net6.0/Ruineed1.genruntimeconfig.cache
+/Users/Sergey/Documents/Учеба С#/Ruineed/Ruineed1/obj/Debug/net6.0/ref/Ruineed1.dll
